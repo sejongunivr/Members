@@ -1,4 +1,4 @@
-### UNIVR 명단
+# UNIVR 명단
 * 강호산 ([@hosankang](https://github.com/hosankang))
 * 김경남 ([@kimkyeongnam](https://github.com/kimkyeongnam))
 * 김경민 ([]())
