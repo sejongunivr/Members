@@ -13,7 +13,7 @@ Email: kkyy0126@naver.com
 ---
 
 #### 김상훈 
-Github: [@raccoongod](https://github.com/raccoongod))  
+Github: [@raccoongod](https://github.com/raccoongod)  
 Email: 
 
 ---
