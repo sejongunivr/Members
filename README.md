@@ -1,2 +1,16 @@
-# Members
-동아리 명단
+### UNIVR 명단
+* 강호산 ([@hosankang](https://github.com/hosankang))
+* 김경남 ([@kimkyeongnam](https://github.com/kimkyeongnam))
+* 김경민 ([]())
+* 김상훈 ([@raccoongod](https://github.com/raccoongod))
+* 김태희 ([]())
+* 박지민 ([]())
+* 박선일 ([]())
+* 배승진 ([]())
+* 신소정 ([]())
+* 유호균 ([]())
+* 이세원 ([]())
+* 이세희 ([]())
+* 정혜주 ([]())
+* 홍기태 ([]())
+* 황주영 ([]())
