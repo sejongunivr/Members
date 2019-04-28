@@ -13,6 +13,6 @@
 |유호균|||
 |이세원|||
 |이세희|||
-|정혜주|||
+|정혜주|[@hyejujujujung](https://github.com/hyejujujujung)|gpwn115@naver.com|
 |홍기태|||
 |황주영|||
