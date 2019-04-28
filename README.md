@@ -8,7 +8,7 @@
 |김태희|||
 |박지민|||
 |박선일|||
-|배승진||eeodqql09@gmail.com|
+|배승진|[@pip-izony](https://github.com/pip-izony)|eeodqql09@gmail.com|
 |신소정|||
 |유호균|||
 |이세원|||
