@@ -7,7 +7,7 @@
 |김상훈|[@raccoongod](https://github.com/raccoongod)|| 
 |김태희|||
 |박지민|||
-|박선일|||
+|박선일||001201parg@gmail.com|
 |배승진|[@pip-izony](https://github.com/pip-izony)|eeodqql09@gmail.com|
 |신소정|||
 |유호균|||
