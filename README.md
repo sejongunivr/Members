@@ -4,7 +4,7 @@
 |강호산|[@hosankang](https://github.com/hosankang)||
 |김경남|[@kimkyeongnam](https://github.com/kimkyeongnam)|kkyy0126@naver.com|
 |김경민|||
-|김상훈|[@raccoongod](https://github.com/raccoongod)|| 
+|김상훈|[@raccoongod](https://github.com/raccoongod)|-| 
 |김태희|||
 |박지민|||
 |박선일|-|001201parg@gmail.com|
